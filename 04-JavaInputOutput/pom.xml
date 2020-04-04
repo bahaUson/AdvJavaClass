@@ -10,7 +10,7 @@
         <version>1.0.0</version>
     </parent>
 
-    <artifactId>03-GenericsLambdaStream</artifactId>
+    <artifactId>04-JavaInputOutput</artifactId>
     <version>1.0.0</version>
 
     <build>
@@ -25,5 +25,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
